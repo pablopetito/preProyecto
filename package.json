@@ -1,0 +1,22 @@
+{
+  "name": "preproyecto",
+  "version": "1.0.0",
+  "description": "Talento Tech | Pre Proyecto NODE JS BACK END",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopetito/preProyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablopetito/preProyecto/issues"
+  },
+  "homepage": "https://github.com/pablopetito/preProyecto#readme"
+}
